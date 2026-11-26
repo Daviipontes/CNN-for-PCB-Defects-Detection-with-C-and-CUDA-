@@ -1,0 +1,5 @@
+obj/
+mlp_cuda/mlp_cuda
+*.zip
+*.o
+__pycache__/
